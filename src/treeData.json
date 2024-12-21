@@ -1,0 +1,18 @@
+{
+  "isLeaf": false,
+  "keys": [10, 20],
+  "children": [
+    {
+      "isLeaf": true,
+      "keys": [5, 7, 9]
+    },
+    {
+      "isLeaf": true,
+      "keys": [15, 17, 19]
+    },
+    {
+      "isLeaf": true,
+      "keys": [25, 27, 29]
+    }
+  ]
+}
